@@ -1,6 +1,6 @@
 # Final Results and Requirements
 
-# 8. Final Results
+Final Results
 
 After multiple months of experimentation, debugging, environment migration, dependency fixing, and framework adaptation, successful inference pipelines were achieved for:
 
