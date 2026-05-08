@@ -8,7 +8,7 @@ After multiple months of experimentation, debugging, environment migration, depe
 - Deep OC-SORT
 
 The final implementation was capable of running multi-object tracking inference successfully on modern GPU hardware under Ubuntu 24.04.
-, using yolov8 model. Weight can be find here:
+, using yolov8 model. Weights can be find here:
 https://drive.google.com/file/d/1hnmL09jbtm48KJHf3GMLFUh1jiTVfbsD/view?usp=sharing
 
 In addition to the successful inference setup, the project also achieved:
